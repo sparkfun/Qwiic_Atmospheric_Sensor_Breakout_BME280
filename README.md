@@ -19,7 +19,7 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_BME280_Arduino_Library/)** - <Arduino> library for the BME280.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/ccs811bme280-qwiic-environmental-combo-breakout-hookup-guide)** - Basic hookup guide for the SparkFun Atmospheric Sensor Breakout - BME280 (Qwiic).
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-atmospheric-sensor-breakout-bme280-qwiic-hookup-guide)** - Basic hookup guide for the SparkFun Atmospheric Sensor Breakout - BME280 (Qwiic).
 * **[Qwiic Ecosystem](https://www.sparkfun.com/qwiic)** - Qwiic enabled for fast prototyping!
 
 Product Versions

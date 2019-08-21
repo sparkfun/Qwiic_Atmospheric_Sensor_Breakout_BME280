@@ -9,11 +9,7 @@ The SparkFun Atmospheric Sensor Breakout - BME280 (Qwiic) is perfect for sensing
 
 Repository Contents
 -------------------
-
-* **/Documentation** - Data sheets, additional product information
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the BME280
 * **/Production** - Production panel files (.brd)
 
 Documentation

@@ -16,6 +16,7 @@ Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_BME280_Arduino_Library/)** - Arduino library for the BME280.
 * **[Python Library](https://github.com/sparkfun/Qwiic_BME280_Py)** - Python library for the BME280.
+* **[Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/tree/main/products/15440_sfe_qwiic_atmospheric_sensor_BME280_pressure_humidity_temperature.fzpz)** - Fritzing part for the Qwiic BME280
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-atmospheric-sensor-bme280-hookup-guide)** - Basic hookup guide for the SparkFun Atmospheric Sensor Breakout - BME280 (Qwiic).
 * **[Qwiic Ecosystem](https://www.sparkfun.com/qwiic)** - Qwiic enabled for fast prototyping!
 
